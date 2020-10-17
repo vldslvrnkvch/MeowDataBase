@@ -1,0 +1,7 @@
+﻿namespace MeowQueryInterpreter
+{
+    class Interpreter
+    {
+
+    }
+}
